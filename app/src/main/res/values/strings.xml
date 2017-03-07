@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lonely</string>
+    <string name="title_activity_third">activity_third</string>
+    <string name="button">rec</string>
+    <string name="textview">TextView</string>
+    <string name="welcome"> welcome \n \n     Scocial Environment \n
+Lonely is your own private assistant where you can close the
+        door on you issue  and  focus on your live in peace.
+        where your authentic voice is free to go where it is meant to go.
+         and Creativity, and discover the bliss of single-tasking.</string>/>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
